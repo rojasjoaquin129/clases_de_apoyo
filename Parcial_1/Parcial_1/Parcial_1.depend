@@ -1,0 +1,253 @@
+# depslib dependency file v1.0
+1558050729 source:/home/alumno/Workspace/Parcial_Laboratorio1/Parcial_1/instrumento.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"instrumento.h"
+
+1558050300 source:/home/alumno/Workspace/Parcial_Laboratorio1/Parcial_1/musico.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"musico.h"
+
+1558042667 source:/home/alumno/Workspace/Parcial_Laboratorio1/Parcial_1/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	<time.h>
+
+1558042667 /home/alumno/Workspace/Parcial_Laboratorio1/Parcial_1/utn.h
+
+1558049873 source:/home/alumno/Workspace/Parcial_Laboratorio1/Parcial_1/orquesta.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"orquesta.h"
+	"musico.h"
+
+1558046654 /home/alumno/Workspace/Parcial_Laboratorio1/Parcial_1/orquesta.h
+	"musico.h"
+
+1558047259 /home/alumno/Workspace/Parcial_Laboratorio1/Parcial_1/musico.h
+
+1558052209 source:/home/alumno/Workspace/Parcial_Laboratorio1/Parcial_1/main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"orquesta.h"
+	"instrumento.h"
+	"musico.h"
+	"informes.h"
+
+1558048306 /home/alumno/Workspace/Parcial_Laboratorio1/Parcial_1/instrumento.h
+
+1558052677 source:/home/alumno/Workspace/Parcial_Laboratorio1/Parcial_1/informes.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"informes.h"
+	"instrumento.h"
+	"musico.h"
+	"orquesta.h"
+
+1558051936 /home/alumno/Workspace/Parcial_Laboratorio1/Parcial_1/informes.h
+	"instrumento.h"
+	"musico.h"
+	"orquesta.h"
+
+1558474637 source:/home/alumno/workspace/Parcial_Laboratorio1/Parcial_1/instrumento.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"instrumento.h"
+
+1558474637 /home/alumno/workspace/Parcial_Laboratorio1/Parcial_1/utn.h
+
+1558474637 /home/alumno/workspace/Parcial_Laboratorio1/Parcial_1/instrumento.h
+
+1558482853 source:/home/alumno/workspace/Parcial_Laboratorio1/Parcial_1/main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"orquesta.h"
+	"instrumento.h"
+	"musico.h"
+	"informes.h"
+
+1558474637 /home/alumno/workspace/Parcial_Laboratorio1/Parcial_1/orquesta.h
+	"musico.h"
+
+1558480776 /home/alumno/workspace/Parcial_Laboratorio1/Parcial_1/musico.h
+
+1558481550 /home/alumno/workspace/Parcial_Laboratorio1/Parcial_1/informes.h
+	"instrumento.h"
+	"musico.h"
+	"orquesta.h"
+
+1558474637 source:/home/alumno/workspace/Parcial_Laboratorio1/Parcial_1/orquesta.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"orquesta.h"
+	"musico.h"
+
+1558474637 source:/home/alumno/workspace/Parcial_Laboratorio1/Parcial_1/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	<time.h>
+
+1558480760 source:/home/alumno/workspace/Parcial_Laboratorio1/Parcial_1/musico.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"musico.h"
+
+1558483008 source:/home/alumno/workspace/Parcial_Laboratorio1/Parcial_1/informes.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"informes.h"
+	"instrumento.h"
+	"musico.h"
+	"orquesta.h"
+
+1558581232 source:f:\cami\estudios\facultad\programación\01 programacion_laboratorio_1\repositorio\parcial_laboratorio1\parcial_1\informes.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"informes.h"
+	"instrumento.h"
+	"musico.h"
+	"orquesta.h"
+
+1558580298 f:\cami\estudios\facultad\programación\01 programacion_laboratorio_1\repositorio\parcial_laboratorio1\parcial_1\utn.h
+
+1558577131 f:\cami\estudios\facultad\programación\01 programacion_laboratorio_1\repositorio\parcial_laboratorio1\parcial_1\informes.h
+	"instrumento.h"
+	"musico.h"
+	"orquesta.h"
+
+1558491629 f:\cami\estudios\facultad\programación\01 programacion_laboratorio_1\repositorio\parcial_laboratorio1\parcial_1\instrumento.h
+
+1558491629 f:\cami\estudios\facultad\programación\01 programacion_laboratorio_1\repositorio\parcial_laboratorio1\parcial_1\musico.h
+
+1558491629 f:\cami\estudios\facultad\programación\01 programacion_laboratorio_1\repositorio\parcial_laboratorio1\parcial_1\orquesta.h
+	"musico.h"
+
+1558579187 source:f:\cami\estudios\facultad\programación\01 programacion_laboratorio_1\repositorio\parcial_laboratorio1\parcial_1\instrumento.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"instrumento.h"
+
+1558579530 source:f:\cami\estudios\facultad\programación\01 programacion_laboratorio_1\repositorio\parcial_laboratorio1\parcial_1\musico.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"musico.h"
+
+1558580096 source:f:\cami\estudios\facultad\programación\01 programacion_laboratorio_1\repositorio\parcial_laboratorio1\parcial_1\orquesta.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"orquesta.h"
+	"musico.h"
+
+1558580249 source:f:\cami\estudios\facultad\programación\01 programacion_laboratorio_1\repositorio\parcial_laboratorio1\parcial_1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	<time.h>
+
+1558581314 source:f:\cami\estudios\facultad\programación\01 programacion_laboratorio_1\repositorio\parcial_laboratorio1\parcial_1\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"orquesta.h"
+	"instrumento.h"
+	"musico.h"
+	"informes.h"
+
+1571186186 source:/home/alumno/practicaParcial/Parcial_Laboratorio1/Parcial_1/informes.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"informes.h"
+	"instrumento.h"
+	"musico.h"
+	"orquesta.h"
+
+1571176908 /home/alumno/practicaParcial/Parcial_Laboratorio1/Parcial_1/utn.h
+
+1571185522 /home/alumno/practicaParcial/Parcial_Laboratorio1/Parcial_1/informes.h
+	"instrumento.h"
+	"musico.h"
+	"orquesta.h"
+
+1571181900 /home/alumno/practicaParcial/Parcial_Laboratorio1/Parcial_1/instrumento.h
+
+1571176908 /home/alumno/practicaParcial/Parcial_Laboratorio1/Parcial_1/musico.h
+
+1571176908 /home/alumno/practicaParcial/Parcial_Laboratorio1/Parcial_1/orquesta.h
+	"musico.h"
+
+1571176908 source:/home/alumno/practicaParcial/Parcial_Laboratorio1/Parcial_1/instrumento.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"instrumento.h"
+
+1571185548 source:/home/alumno/practicaParcial/Parcial_Laboratorio1/Parcial_1/main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"orquesta.h"
+	"instrumento.h"
+	"musico.h"
+	"informes.h"
+
+1571176908 source:/home/alumno/practicaParcial/Parcial_Laboratorio1/Parcial_1/musico.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"musico.h"
+
+1571176908 source:/home/alumno/practicaParcial/Parcial_Laboratorio1/Parcial_1/orquesta.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"orquesta.h"
+	"musico.h"
+
+1571176908 source:/home/alumno/practicaParcial/Parcial_Laboratorio1/Parcial_1/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	<time.h>
+
