@@ -64,5 +64,6 @@ while(!feof(pFile))
     }
 
 	}
+
     return retorno;
 }
