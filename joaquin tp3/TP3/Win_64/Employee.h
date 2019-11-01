@@ -23,9 +23,5 @@ int employee_getHorasTrabajadas(Employee* this,int* horasTrabajadas);
 
 int employee_setSueldo(Employee* this,int sueldo);
 int employee_getSueldo(Employee* this,int* sueldo);;
-static int isValidNombre(char* nombre);
-static int isValidId(int id);
-static int isValidHora(int horas);
-static int isValidSueldo(int sueldo);
 
 #endif // employee_H_INCLUDED

@@ -4,6 +4,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+static int isValidNombre(char* nombre);
+static int isValidId(int id);
+static int isValidHora(int horas);
+static int isValidSueldo(int sueldo);
+
 Employee* employee_new()
 {
 	return malloc(sizeof(Employee));
