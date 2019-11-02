@@ -22,6 +22,8 @@
 int main()
 {
     int option = 0;
+    int flag=0;
+    int control;
     LinkedList* listaEmpleados = ll_newLinkedList();
     LinkedList* listaEmpleadosBinario =ll_newLinkedList();
     printf( "\n Menu:\n"
@@ -40,15 +42,36 @@ int main()
         switch(option)
         {
             case 1:
-                controller_loadFromText("data.csv",listaEmpleados);
-                printf("DATOS GUARDADOS CON EXITO\n");
+                if(flag==0){
+                control=controller_loadFromText("data.csv",listaEmpleados);
+                    if (control!=-1){
+                        printf("DATOS GUARDADOS CON EXITO\n");
+                        flag=1;
+                    } else {
+                     printf("ERROR, LOS DATOS NO SE PUEDEN GUARDAR\n");
+                    }
+                }
+                else{
+                    printf("ERROR, YA SE CARGARON LOS DATOS \n");
+                }
                 break;
             case 2:
-                controller_loadFromBinary("data.csv",listaEmpleados);
-                printf("DATOS GUARDADOS CON EXITO\n");
+
+                        controller_saveAsBinary("data2.csv",listaEmpleados);
+                        controller_loadFromBinary("data2.csv",listaEmpleadosBinario);
+
+
                 break;
+
             case 6:
-                 controller_ListEmployee(listaEmpleadosBinario);
+                    if(flag==1)
+                        controller_ListEmployee(listaEmpleadosBinario);
+                    else
+                            printf("no se puede mostrar");
+                 //controller_ListEmployee(listaEmpleados);
+                break;
+            case 7:
+                 controller_ListEmployee(listaEmpleados);
                  //controller_ListEmployee(listaEmpleados);
                 break;
 
